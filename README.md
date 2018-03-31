@@ -1,3 +1,3 @@
 # ERWA
 Education software using adaptive learning
-Code will be uploaded soon
+Code will be made public soon!
